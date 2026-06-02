@@ -1,6 +1,5 @@
-﻿namespace ToDoList.Api.Data
+﻿namespace ToDoList.Api.Data;
+
+public class AppDbContext
 {
-    public class AppDbContext
-    {
-    }
 }
